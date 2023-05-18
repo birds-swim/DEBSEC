@@ -8,7 +8,7 @@ Table here
 # Introduction
 I greatly admire the work of OpenBSD, but I still require a more maintsream OS like Linux for popular software like Steam and other things. So I sought to find the next best alternative for my particular needs. After daily driving security-centric software projects like Kicksecure for a month, I created this guide. This "guide" (if you can call it a guide) is more of a grocery list of software projects and applications that I think are great and could meet the widest needs of most desktop Linux users.
 
-My hope is that by completing this guide, the user will have a secure Debian-based system that is moderately hardened beyond the defaults of a vanilla Debian/SpiralLinux installation.
+My hope is that by completing this guide, the user will have a more secure Debian-based system that is moderately hardened beyond the defaults of a vanilla Debian/SpiralLinux installation.
 
 To clarify, I am not an Engineer/Inventor: I am a traffic cop. Yours Truly is simply here to direct you to the fine work others before him have already done.
 
