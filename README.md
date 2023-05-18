@@ -44,7 +44,7 @@ Optional Features:
 - 
 
 # Disclaimers
-WARNING:  The Kicksecure Team officially supports only vanilla Debian. They consider using their project on systems other than vanilla Debian are "untested systems."  I personally haven't bumped into any catestrophic (or minor) issues using SpiralLinux + Kicksecure on a daily basis, but your mileage may vary.
+WARNING:  The Kicksecure Team officially supports only vanilla Debian. See https://www.kicksecure.com/wiki/Unsupported for details.  I personally haven't bumped into any catestrophic (or minor) issues using SpiralLinux + Kicksecure on a daily basis, but your mileage may vary.
 WARNING:  I am by no means a security expert or IT professional.
 
 # Installation
