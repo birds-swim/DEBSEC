@@ -37,6 +37,10 @@ Key Features of DEBSEC:
 - apt-listbugs, apt-listchanges, needrestart, debsecan, debsums
 - Password Manager (Bitwarden and KeePassXC are my favorites, but 1Password and Dashlane are good too).
 - Brave Web Browser (for PWAs/Web Apps). Strong anti-fingerprinting and support for PWA's
+- Picocrypt AppImage
+- Flatseal
+- Singal
+- Notesnook
 
 Optional Features:
 - micro, tldr, glances
