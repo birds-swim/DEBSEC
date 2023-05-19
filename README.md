@@ -33,17 +33,18 @@ Key Features of DEBSEC:
 - Mullvad Browser (as default browser)
 - usbguard
 - LUKS
-- lynis, tiger, rkhunter, fail2ban, endlessh
+- doas
+- lynis, tiger, rkhunter, fail2ban, endlessh, auditd, 
 - apt-listbugs, apt-listchanges, needrestart, debsecan, debsums
 - Password Manager (Bitwarden and KeePassXC are my favorites, but 1Password and Dashlane are good too).
 - Brave Web Browser (for PWAs/Web Apps). Strong anti-fingerprinting and support for PWA's
-- Picocrypt AppImage
+- Picocrypt AppImage (for local file/folder encryption)
 - Flatseal
 - Singal
 - Notesnook
 
 Optional Features:
-- micro, tldr, glances
+- micro, tldr, glances, hstr
 - Bash-it from Terminalsare.sexy
 - 
 
