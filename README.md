@@ -5,14 +5,15 @@ A humble and lightweight "guide" for Linux users looking for a more security-har
 
 Table here
 
+
 # Introduction
-I stand on the shoulders of giants. I humbly offer this "guide" in the hopes that it will be useful. I don't pretend to make anything new or call anything mine. All the software referenced in this guide were created by companies, organizations, and individuals much smarter and greater than Yours Truly! Their hardwork should be praised.
+I stand on the shoulders of giants. I humbly offer this "guide" in the hopes that it will be useful. I don't pretend to make anything new or call anything mine. All the software referenced in this guide were created by companies, organizations, and individuals much smarter and greater than Yours Truly! Their hardwork should be praised. This guide is more like a grocery shopping list of software than an actual in-depth detailed guide on how to lock down your system like Fort Knox. Use it appropriately. You (the User) are solely responsible for the security of your system. Security isn't a software, it's a journey. Please keep up with the relevant security notices regarding Kicksecure and Debian.
 
 I greatly admire the work of OpenBSD, but I still require a more maintsream OS like Linux for popular software like Steam and other things. So I sought to find the next best alternative for my particular needs. After daily driving security-centric software projects like Kicksecure for a month, I created this guide. This "guide" (if you can call it a guide) is more of a grocery list of software projects and applications that I think are great and could meet the widest needs of most desktop Linux users.
 
 My hope is that by completing this guide, the user will have a more secure Debian-based system that is moderately hardened beyond the defaults of a vanilla Debian/SpiralLinux installation. I believe Linux is a secure OS, but that there's always room for improvement!
 
-To clarify, I am not an Engineer/Inventor: I am a traffic cop. Yours Truly is simply here to direct you to the fine work others before him have already done.
+To clarify, I am not an Engineer/Inventor: I am a traffic cop. Yours Truly is simply here to direct you to the f.ine work others before him have already done.
 
 My goal with this guide is to consolidate all the choice morsels of the most common security advice and suggestions any Privacy/Security beginner can find on social media (various YouTubers, Reddit, PrivacyGuides.org, distro forums, etc.) and put it all into one burrito.  
 
