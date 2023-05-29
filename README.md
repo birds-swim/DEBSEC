@@ -60,7 +60,8 @@ WARNING:  I am by no means a security expert or IT professional, nor do I claim 
 - SpiralLinux recommends [Balena Etcher](https://etcher.balena.io) or [ROSA ImageWriter](http://wiki.rosalab.com/en/index.php/ROSA_ImageWriter) for a successful installation.
 - After flashing the SpiralLinux ".iso" file to a USB flashdrive, boot the installation media.  Open a Terminal and type these commands:
 - `cd /etc/calamares/modules`
-- `sudo nano 
+- Then edit the `fstab.conf` file to add additional Btrfs mount options appropriate to your system. Look here for details: https://btrfs.readthedocs.io/en/latest/ch-mount-options.html
+- 
 
 
 # Driving the Tank
