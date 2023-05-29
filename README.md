@@ -50,10 +50,18 @@ Optional Features:
 - 
 
 # Disclaimers
-WARNING:  The Kicksecure Team officially supports only vanilla Debian. See https://www.kicksecure.com/wiki/Unsupported for details.  I personally haven't bumped into any catestrophic (or minor) issues using SpiralLinux + Kicksecure on a daily basis, but your mileage may vary.
-WARNING:  I am by no means a security expert or IT professional.
+WARNING:  The Kicksecure Team officially supports *only* vanilla Debian. See https://www.kicksecure.com/wiki/Unsupported for details.  I personally haven't bumped into any catestrophic (or minor) issues using SpiralLinux + Kicksecure on a daily basis, but technically we're breaking Kicksecure's rules here. You're Milage May Vary.
+WARNING:  I am by no means a security expert or IT professional, nor do I claim to be one.
 
 # Installation
+
+1. SpiralLinux 
+---> Grab a copy of SpiralLinux here: https://spirallinux.github.io/ (Builder Edition recommended for this guide; otherwise, choose your favorite Desktop Environment.)
+- SpiralLinux recommends [Balena Etcher](https://etcher.balena.io) or [ROSA ImageWriter](http://wiki.rosalab.com/en/index.php/ROSA_ImageWriter) for a successful installation.
+- After flashing the SpiralLinux ".iso" file to a USB flashdrive, boot the installation media.  Open a Terminal and type these commands:
+- `cd /etc/calamares/modules`
+- `sudo nano 
+
 
 # Driving the Tank
 Flatpak everything. Use Flatseal for permissions management. Some sandboxing is *still* better than no sandboxing at all. Use Firejail for Picocrypt. Consider DistroBox for any additional software you can't find in Debian's repos or in a Flatpak (i.e., packages from the AUR).
