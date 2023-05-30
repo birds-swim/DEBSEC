@@ -53,6 +53,10 @@ Optional Features:
 WARNING:  The Kicksecure Team officially supports *only* vanilla Debian. See https://www.kicksecure.com/wiki/Unsupported for details.  I personally haven't bumped into any catestrophic (or minor) issues using SpiralLinux + Kicksecure on a daily basis, but technically we're breaking Kicksecure's rules here. You're Milage May Vary.
 WARNING:  I am by no means a security expert or IT professional, nor do I claim to be one.
 
+# Requirements
+- A fresh install of SpiralLinux Builder Edition with a single user account named "User" (Kicksecure requirement).
+- NextDNS account.
+
 # Installation
 
 1. SpiralLinux 
@@ -61,7 +65,15 @@ WARNING:  I am by no means a security expert or IT professional, nor do I claim 
 - After flashing the SpiralLinux ".iso" file to a USB flashdrive, boot the installation media.  Open a Terminal and type these commands:
 - `cd /etc/calamares/modules`
 - Then edit the `fstab.conf` file to add additional Btrfs mount options appropriate to your system. Look here for details: https://btrfs.readthedocs.io/en/latest/ch-mount-options.html
-- 
+- Save the file and start the installer. 
+- REQUIRED: The name and username must be "User" for Kicksecure to work properly. If you don't, you'll have to start all over.
+- Do not set a swap file, change the default filesystem, or make any custom partitions. Leave them as they are.
+- I highly recommend enabling full disk encryption for this build with a DiceWare password. https://diceware.dmuth.org/  Try to keep it between 3-5 DiceWare words and easy to remember. Write it down if you need.
+- Set name and username as "user". Create a password.
+- Install the system. Reboot.
+
+2. SpiralLinux Post-Installation
+- You have a lot of freedom from here to choose what kind of Debian system you want. Kicksecure officially supports Xfce, so you'll be installing Xfce apps those devs are most familiar with. Although, I did ask a question on [Reddit](https://www.reddit.com/r/Kicksecure/comments/129tsn6/debian_xfce_vs_kicksecure_xfce)
 
 
 # Driving the Tank
