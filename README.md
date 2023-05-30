@@ -73,7 +73,7 @@ WARNING:  I am by no means a security expert or IT professional, nor do I claim 
 - Install the system. Reboot.
 
 2. SpiralLinux Post-Installation
-- You have a lot of freedom from here to choose what kind of Debian system you want. Kicksecure officially supports Xfce, so you'll be installing Xfce apps those devs are most familiar with. Although, I did ask a question on [Reddit](https://www.reddit.com/r/Kicksecure/comments/129tsn6/debian_xfce_vs_kicksecure_xfce)
+- You have a lot of freedom from here to choose what kind of Debian system you want. Kicksecure officially supports Xfce, so you'll be installing Xfce apps those devs are most familiar with. Although, I did ask a [question](https://www.reddit.com/r/Kicksecure/comments/129tsn6/debian_xfce_vs_kicksecure_xfce) on r/Kicksecure (Reddit), and it seems like 
 
 
 # Driving the Tank
